@@ -14,7 +14,6 @@
 - 🎨 [Vivaldi Mods Manager](https://github.com/maddada/vivaldi-mods-manager) - Cross-platform tool for installing & managing Vivaldi browser mods + my own floating sidebar mod for SharpTabs ⭐ 20
 - 🕐 [MaddaFloatingClock](https://github.com/maddada/MaddaFloatingClock) - Customizable macOS floating clock with Focus & Pomodoro timers
 - 📽️ [Notion Presenter](https://github.com/maddada/notion-presenter) - ([Chrome Store Link](https://chromewebstore.google.com/detail/notion-presenter/eimodgicglbfcifajchiihjbhamgdloc?authuser=4)) - Browser extension that adds presentation mode to Notion pages
-- 📚 [Agentic Coding Resources](https://github.com/maddada/agentic-coding-resources) - Curated collection of resources for agentic coding
 
 ## Prev
 
