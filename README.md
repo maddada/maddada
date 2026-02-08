@@ -23,6 +23,7 @@
 ## Contributed To
 
 - 🪟 [DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS — fixed full-screen indicators, window ordering, compact mode
+- 📏 [Menu Bar Splitter](https://github.com/maddada/menu-bar-splitter) - macOS menu bar organizer with dividers — fixed permission popup, added customizable icon thickness/height/spacing/color
 
 ## Minor Contrib (highly recommended projects)
 - 📦 [create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - CLI for scaffolding type-safe TypeScript projects - minor
