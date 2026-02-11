@@ -9,7 +9,7 @@
 ## Current Projects
 
 - 🔷 [SharpTabs](https://github.com/maddada/sharptabs) - [Chrome Store Link](https://chromewebstore.google.com/detail/sharp-tabs-best-vertical/ooagakphldicpdeamgchdkpfbehcdjjk?authuser=4&hl=en) - The best all in one chrome tabs manager. Instant search, AI-powered tab grouping, workspaces, session backups, themes, much much more.
-- 👤 [ai-agents-account-management](https://github.com/maddada/ai-agents-account-management/) - A prompt that lets you have separate personal / work profiles for Claude Code & Codex CLIs with shared skills/hooks/commands/etc between them.
+- 👤 [AI Agents Account Management](https://github.com/maddada/ai-agents-account-management/) - A prompt that lets you have separate personal / work profiles for Claude Code & Codex CLIs with shared skills/hooks/commands/etc between them.
 - 🤖 [Agent Manager X](https://github.com/maddada/agent-manager-x) - Tauri macOS app to monitor AI coding agents (Claude Code, OpenCode, Codex) in real-time and see their progress
 - 🔍 [AI DevTools for VS Code](https://github.com/maddada/ai-devtools-vscode) - Debug Claude Code chat history — hidden system messages, tool calls, subagent conversations
 - 🎨 [Vivaldi Mods Manager](https://github.com/maddada/vivaldi-mods-manager) - Cross-platform tool for installing & managing Vivaldi browser mods + my own floating sidebar mod for SharpTabs ⭐ 20
