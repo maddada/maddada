@@ -1,6 +1,6 @@
-# Hi, I'm Mohamad
+# Hi, I'm Yahia!
 
-📍 Dubai, UAE | 🏢 Senior Technical Product Manager [@ShortPoint](https://github.com/ShortPoint) | 🛠️ Builder of AI dev tools & macOS utilities
+📍 Dubai, UAE | 🏢 Senior Technical Product Manager [@ShortPoint](https://shortpoint.com) | 🛠️ AI dev tools & macOS utilities
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff) ![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
 
