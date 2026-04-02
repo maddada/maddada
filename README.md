@@ -8,6 +8,7 @@
 
 ## Current Projects
 
+- [VSmux](https://github.com/maddada/VSmux) - An agent session management tool inside VS Code/Cursor/etc. Brings a ton of features from apps like: codex app/conductor/superset into VS Code itself so you stay close to the code.
 - 🔷 [SharpTabs](https://github.com/maddada/sharptabs) - [Chrome Store Link](https://chromewebstore.google.com/detail/sharp-tabs-best-vertical/ooagakphldicpdeamgchdkpfbehcdjjk?authuser=4&hl=en) - The best all in one chrome tabs manager. Instant search, AI-powered tab grouping, workspaces, session backups, themes, much much more.
 - 👤 [AI Agents Account Management](https://github.com/maddada/ai-agents-account-management/) - A prompt that lets you have separate personal / work profiles for Claude Code & Codex CLIs with shared skills/hooks/commands/etc between them.
 - 🤖 [Agent Manager X (Native Swift UI)](https://github.com/maddada/agent-manager-x-swift) - Native macOS app to monitor AI coding agents (Claude Code, OpenCode, Codex) in real-time and see their progress. Has a new floating toolbar which sticks to the screen's left/right side.
