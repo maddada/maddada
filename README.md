@@ -8,7 +8,7 @@
 
 ## Current Projects
 
-- 🚀 [zmux](https://github.com/maddada/zmux) - A native Ghostty fork for agent session management on macOS. Very light and performant. Embedded Chromium browser. Auto resume. Auto naming. much more. 
+- 🚀 [Ghostex](https://github.com/maddada/ghostex) - A native app with Ghostty terminals for agent session management on macOS. Very light and performant. Embedded Chromium browser. Auto resume. Auto naming. much more. 
 - 🔷 [VSmux](https://github.com/maddada/VSmux) - An agent session management tool inside VS Code/Cursor/etc. Brings a ton of features from apps like: codex app/conductor/superset into VS Code itself so you stay close to the code.
 - 🔷 [SharpTabs](https://github.com/maddada/sharptabs) - [Chrome Store Link](https://chromewebstore.google.com/detail/sharp-tabs-best-vertical/ooagakphldicpdeamgchdkpfbehcdjjk?authuser=4&hl=en) - The best all in one chrome tabs manager. Instant search, AI-powered tab grouping, workspaces, session backups, themes, much much more.
 - 👤 [AI Agents Account Management](https://github.com/maddada/ai-agents-account-management/) - A prompt that lets you have separate personal / work profiles for Claude Code & Codex CLIs with shared skills/hooks/commands/etc between them.
