@@ -1,10 +1,8 @@
 # Hi, I'm Yahia!
 
-📍 Dubai, UAE | 🏢 Senior Technical Product Manager [@ShortPoint](https://shortpoint.com) | 🛠️ AI dev tools & macOS utilities
+Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools that help me excel and sharing them with others.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff) ![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
-
-> Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools that help me excel and sharing them with others.
+Living in Dubai, UAE | Senior Technical Product Manager [@ShortPoint](https://shortpoint.com)
 
 ## Current Projects
 
