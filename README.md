@@ -2,8 +2,6 @@
 
 Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools that help me excel and sharing them with others.
 
-Living in Dubai, UAE | Senior Technical Product Manager [@ShortPoint](https://shortpoint.com)
-
 ## Current Projects
 
 | Project | Description |
