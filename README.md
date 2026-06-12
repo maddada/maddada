@@ -11,7 +11,7 @@ Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools
 | [Cardinal X](https://github.com/maddada/cardinal-x) | The best alternative for Everything on macOS (fork). |
 | [SharpTabs](https://github.com/maddada/sharptabs) | The best all-in-one Chrome tabs manager. Instant search, AI-powered tab grouping, workspaces, session backups, themes, much more. |
 | [AI Agents Account Management](https://github.com/maddada/ai-agents-account-management/) | A prompt that lets you have separate personal/work profiles for Claude Code & Codex CLIs with shared skills/hooks/commands/etc. |
-| [Agent Manager X (Native Swift UI)](https://github.com/maddada/agent-manager-x-swift) | Native macOS app to monitor AI coding agents (Claude Code, OpenCode, Codex) in real time and see their progress. Has a floating toolbar that sticks to the screen's left/right side. |
+| [Agent Manager X](https://github.com/maddada/agent-manager-x) | Native macOS app to monitor AI coding agents (Claude Code, OpenCode, Codex) in real time and see their progress. Has a floating toolbar that sticks to the screen's left/right side. |
 | [AI DevTools for VS Code](https://github.com/maddada/ai-devtools-vscode) | Debug Claude Code & Codex chat histories: hidden system messages, tool calls, and subagent conversations. |
 | [Vivaldi Mods Manager](https://github.com/maddada/vivaldi-mods-manager) | Cross-platform tool for installing and managing Vivaldi browser mods, plus my floating sidebar mod for SharpTabs. |
 | [MaddaFloatingClock](https://github.com/maddada/MaddaFloatingClock) | Customizable macOS floating clock with Focus and Pomodoro timers. |
