@@ -39,5 +39,4 @@ Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools
 | [Leash](https://github.com/melihmucuk/leash) | Security guardrails for AI coding agents. Minor changes. |
 | [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) | Finder toolbar app for macOS. |
 | [Stats](https://github.com/exelban/stats) | macOS system monitor in the menu bar. My changes here: [maddada/stats](https://github.com/maddada/stats). |
-| [Superset](https://github.com/superset-sh/superset) | Terminal for orchestrating coding agents. |
 | [Ultracite](https://github.com/haydenbleasel/ultracite) | Zero-config linter and formatter. |
