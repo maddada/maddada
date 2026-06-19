@@ -6,7 +6,7 @@ Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools
 
 | Project | Description |
 |---|---|
-| [Ghostex](https://github.com/maddada/ghostex) • ⭐ 450 | A native app with Ghostty terminals for agent session management on macOS/Android/iOS. Fast and intuitive. Desktop/Browser use. Embedded Chromium browser. Agent Orchestration Skills. Code Editor. Auto resume. Auto naming. Much more. |
+| [Ghostex](https://github.com/maddada/ghostex) • ⭐ 450 | A native app with Ghostty terminals for agent session management on macOS/Android/iOS. Fast and intuitive. Desktop/Browser use. Embedded Chromium browser. Agent Orchestration Skills. VS Code IDE Built-in. Auto sleep/resume. Auto naming. Much more. |
 | [VSmux](https://github.com/maddada/VSmux) | An agent session management tool inside VS Code/Cursor/etc. Brings features from apps like Codex app/Conductor/Superset into VS Code itself so you stay close to the code. |
 | [Cardinal X](https://github.com/maddada/cardinal-x) | The best alternative for Everything on macOS (fork). |
 | [SharpTabs](https://github.com/maddada/sharptabs) | The best all-in-one Chrome tabs manager. Instant search, AI-powered tab grouping, workspaces, session backups, themes, much more. |
