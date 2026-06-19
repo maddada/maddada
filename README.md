@@ -6,16 +6,16 @@ Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools
 
 | Project | Description |
 |---|---|
-| [Ghostex](https://github.com/maddada/ghostex) • ⭐ 450 | A native app with Ghostty terminals for agent session management on macOS/Android/iOS. Fast and intuitive. Desktop/Browser use. Embedded Chromium browser. Agent Orchestration Skills. VS Code IDE Built-in. Auto sleep/resume. Auto naming. Much more. |
-| [VSmux](https://github.com/maddada/VSmux) | An agent session management tool inside VS Code/Cursor/etc. Brings features from apps like Codex app/Conductor/Superset into VS Code itself so you stay close to the code. |
-| [Cardinal X](https://github.com/maddada/cardinal-x) | The best alternative for Everything on macOS (fork). |
-| [SharpTabs](https://github.com/maddada/sharptabs) | The best all-in-one Chrome tabs manager. Instant search, AI-powered tab grouping, workspaces, session backups, themes, much more. |
-| [AI Agents Account Management](https://github.com/maddada/ai-agents-account-management/) | A prompt that lets you have separate personal/work profiles for Claude Code & Codex CLIs with shared skills/hooks/commands/etc. |
-| [Agent Manager X](https://github.com/maddada/agent-manager-x) | Native macOS app to monitor AI coding agents (Claude Code, OpenCode, Codex) in real time and see their progress. Has a floating toolbar that sticks to the screen's left/right side. |
-| [AI DevTools for VS Code](https://github.com/maddada/ai-devtools-vscode) | Debug Claude Code & Codex chat histories: hidden system messages, tool calls, and subagent conversations. |
-| [Vivaldi Mods Manager](https://github.com/maddada/vivaldi-mods-manager) | Cross-platform tool for installing and managing Vivaldi browser mods, plus my floating sidebar mod for SharpTabs. |
-| [MaddaFloatingClock](https://github.com/maddada/MaddaFloatingClock) | Customizable macOS floating clock with Focus and Pomodoro timers. |
-| [Notion Presenter](https://github.com/maddada/notion-presenter) | Browser extension that adds presentation mode to Notion pages. |
+| [Ghostex](https://github.com/maddada/ghostex) • ⭐ 450 | <br />A native app with Ghostty terminals for agent session management on macOS/Android/iOS. Fast and intuitive. Desktop/Browser use. Embedded Chromium browser. Agent Orchestration Skills. VS Code IDE Built-in. Auto sleep/resume. Auto naming. Much more.<br /><br /> |
+| [VSmux](https://github.com/maddada/VSmux) | <br />An agent session management tool inside VS Code/Cursor/etc. Brings features from apps like Codex app/Conductor/Superset into VS Code itself so you stay close to the code.<br /><br /> |
+| [Cardinal X](https://github.com/maddada/cardinal-x) | <br />The best alternative for Everything on macOS (fork).<br /><br /> |
+| [SharpTabs](https://github.com/maddada/sharptabs) | <br />The best all-in-one Chrome tabs manager. Instant search, AI-powered tab grouping, workspaces, session backups, themes, much more. |
+| [AI Agents Account Management](https://github.com/maddada/ai-agents-account-management/) | <br /><br />A prompt that lets you have separate personal/work profiles for Claude Code & Codex CLIs with shared skills/hooks/commands/etc.<br /><br /> |
+| [Agent Manager X](https://github.com/maddada/agent-manager-x) | <br />Native macOS app to monitor AI coding agents (Claude Code, OpenCode, Codex) in real time and see their progress. Has a floating toolbar that sticks to the screen's left/right side.<br /><br /> |
+| [AI DevTools for VS Code](https://github.com/maddada/ai-devtools-vscode) | <br />Debug Claude Code & Codex chat histories: hidden system messages, tool calls, and subagent conversations.<br /><br /> |
+| [Vivaldi Mods Manager](https://github.com/maddada/vivaldi-mods-manager) | <br />Cross-platform tool for installing and managing Vivaldi browser mods, plus my floating sidebar mod for SharpTabs.<br /><br /> |
+| [MaddaFloatingClock](https://github.com/maddada/MaddaFloatingClock) | <br />Customizable macOS floating clock with Focus and Pomodoro timers.<br /><br /> |
+| [Notion Presenter](https://github.com/maddada/notion-presenter) | <br />Browser extension that adds presentation mode to Notion pages.<br /><br /> |
 
 ## Contributed To
 
