@@ -17,13 +17,6 @@ Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools
 | [MaddaFloatingClock](https://github.com/maddada/MaddaFloatingClock) | Customizable macOS floating clock with Focus and Pomodoro timers. |
 | [Notion Presenter](https://github.com/maddada/notion-presenter) | Browser extension that adds presentation mode to Notion pages. |
 
-## Prev
-
-| Project | Description |
-|---|---|
-| [Arabic Typing Game](https://github.com/maddada/arabic-typing-game) | Practice Arabic keyboard skills with falling words and difficulty levels. |
-| [AI DevTools](https://github.com/maddada/ai-devtools) | Web app to render Claude Code `.jsonl` conversation files in a readable format. |
-
 ## Contributed To
 
 | Project | Description |
