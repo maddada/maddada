@@ -3,8 +3,6 @@
 Technical PM by day, TS, React & agentic dev enthusiast by night.<br />
 Building tools that help me excel and sharing them with others.
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/e84fc447-7519-446c-9cf3-f3b48410fbdb" />
-
 ## Current Projects
 
 | Project | Description |
@@ -19,6 +17,8 @@ Building tools that help me excel and sharing them with others.
 | [Vivaldi Mods Manager](https://github.com/maddada/vivaldi-mods-manager) | <br />Cross-platform tool for installing and managing Vivaldi browser mods, plus my floating sidebar mod for SharpTabs.<br /><br /> |
 | [MaddaFloatingClock](https://github.com/maddada/MaddaFloatingClock) | <br />Customizable macOS floating clock with Focus and Pomodoro timers.<br /><br /> |
 | [Notion Presenter](https://github.com/maddada/notion-presenter) | <br />Browser extension that adds presentation mode to Notion pages.<br /><br /> |
+
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/e84fc447-7519-446c-9cf3-f3b48410fbdb" />
 
 ## Contributed To
 
