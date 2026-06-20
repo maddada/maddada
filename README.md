@@ -18,6 +18,8 @@ Building tools that help me excel and sharing them with others.
 | [MaddaFloatingClock](https://github.com/maddada/MaddaFloatingClock) | <br />Customizable macOS floating clock with Focus and Pomodoro timers.<br /><br /> |
 | [Notion Presenter](https://github.com/maddada/notion-presenter) | <br />Browser extension that adds presentation mode to Notion pages.<br /><br /> |
 
+## My AI Stack
+
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/e84fc447-7519-446c-9cf3-f3b48410fbdb" />
 
 ## Contributed To
