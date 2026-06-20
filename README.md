@@ -1,6 +1,9 @@
 # Hi, I'm Yahia!
 
-Technical PM by day, TS, React & agentic dev enthusiast by night. Building tools that help me excel and sharing them with others.
+Technical PM by day, TS, React & agentic dev enthusiast by night.<br />
+Building tools that help me excel and sharing them with others.
+
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/e84fc447-7519-446c-9cf3-f3b48410fbdb" />
 
 ## Current Projects
 
