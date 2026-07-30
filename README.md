@@ -1,6 +1,6 @@
 # Hi, I'm Yahia!
 
-Technical PM by day, TS, React & agentic dev enthusiast by night.<br />
+Director of Product by day, Agentic Engineering enthusiast by night.<br />
 Building tools that help me excel and sharing them with others.
 
 ## Current Projects
